@@ -67,3 +67,16 @@ GPT-4's ability to understand and generate code for a wide range of software eng
 
 These applications can greatly improve the efficiency and quality of software development processes, and contribute to the ongoing evolution of the software engineering field.
 - Added Potential Applications and Benefits section.
+
+## Limitations of GPT-4 for Software Engineering
+
+While GPT-4 has shown promise in various software engineering tasks, there are still some limitations to be addressed:
+
+1. Limited understanding of complex programming concepts
+2. Difficulty in generating code for highly specialized or niche domains
+3. Occasional generation of syntactically correct but semantically incorrect code
+4. Incomplete understanding of user intent or requirements
+5. Tendency to overfit or generate overly verbose code
+
+Addressing these limitations will require further research and development of GPT-4 and other language models, as well as the refinement of CSDSLs and other techniques for improving the interaction between humans and AI in the context of software engineering.
+- Added Limitations of GPT-4 for Software Engineering section.
