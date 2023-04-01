@@ -40,3 +40,16 @@ Contact Information:
 Benedikt Wimmer
 Email: benedikt.wimmer@luftblick.at
 
+
+## Contact Information
+
+For any inquiries or collaboration opportunities, please feel free to reach out to the author:
+
+Benedikt Wimmer - LuftBlick OG, Austria
+Email: benedikt.wimmer@luftblick.at
+
+
+## Changelog
+
+- Initial whitepaper structure and introduction.
+- Added Contact Information section.
