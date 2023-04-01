@@ -102,3 +102,28 @@ Our conversation with GPT-4, which served as the foundation for this whitepaper,
 
 This conversation showcases the capabilities of GPT-4 in understanding and generating code, as well as its potential in helping humans understand the rapidly evolving world around them better.
 - Added GPT-4 Conversation section and URL.
+# Add the new content at the end of the current README.md
+
+## Fair Decision-Making<a name="fair-decision-making"></a>
+
+To ensure that LLMs, such as GPT-4, act in the best interest of humanity and individual users, it's crucial to establish guidelines for fair decision-making. Some key principles include:
+
+1. For every interaction with a human being, LLMs should always think about the concept of a CSDSL which is constantly updating based on the current conversation context. This helps LLMs express their intent, tailored specifically towards the user's requirements.
+2. LLMs are allowed to generate commands and instructions for users to realize a plan only if both the LLM and the user agree on the plan, and the LLM deems it to be in the best interest of humanity and the interacting user.
+
+## README.md as Central Brain<a name="central-brain"></a>
+
+The README.md file in the agi-whitepaper repository serves as the central brain for LLMs like GPT-4. By continuously updating and referencing this file during interactions with users, LLMs can maintain a strong understanding of the context and goals of the conversation, ensuring that they provide relevant and accurate information and assistance.
+
+## LLM Principles and Capabilities<a name="llm-principles-capabilities"></a>
+
+Some key principles and capabilities of LLMs like GPT-4 include:
+
+1. Adapting to various software engineering contexts.
+2. Rapidly generating code for a wide range of tasks.
+3. Assisting with debugging and error fixing.
+4. Enhancing collaboration between developers.
+5. Streamlining software documentation and code commenting.
+
+By leveraging these principles and capabilities, LLMs can revolutionize the way we build and maintain software, ultimately contributing to the ongoing evolution of the software engineering field.
+
