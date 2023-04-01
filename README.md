@@ -93,3 +93,12 @@ One key takeaway from our interaction with GPT-4 is the importance of visually a
 
 By harnessing the power of AI in these areas, we can facilitate more effective human understanding and decision-making in various domains, from software engineering to business, science, and beyond.
 - Added Ways that AI can Help Humans Understand the Rapidly Evolving World Around Them Better section.
+
+## GPT-4 Conversation
+
+Our conversation with GPT-4, which served as the foundation for this whitepaper, can be found at the following URL:
+
+[https://sharegpt.com/c/X6UVXks](https://sharegpt.com/c/X6UVXks)
+
+This conversation showcases the capabilities of GPT-4 in understanding and generating code, as well as its potential in helping humans understand the rapidly evolving world around them better.
+- Added GPT-4 Conversation section and URL.
