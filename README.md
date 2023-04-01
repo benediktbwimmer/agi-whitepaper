@@ -109,6 +109,17 @@ One key takeaway from our interaction with GPT-4 is the importance of visually a
 By harnessing the power of AI in these areas, we can facilitate more effective human understanding and decision-making in various domains, from software engineering to business, science, and beyond.
 - Added Ways that AI can Help Humans Understand the Rapidly Evolving World Around Them Better section.
 
+## Communication Protocol
+
+### Output Styles
+
+- Bash-Scriptable Output
+
+    Bash-Scriptable Output is a communication mode in which GPT-4 provides code blocks with Bash commands and inline echo statements to fill files. This mode allows for easy execution of the provided commands and ensures that the AI model's intent is communicated effectively and in a ready-to-use format. It helps streamline the process of implementing the AI model's suggestions and fosters more efficient collaboration between humans and AI models like GPT-4.
+
+Examples of Bash-Scriptable Output include providing Git commands for updating the GitHub repository or creating new files with specific content, as shown in our interactions throughout the development process.
+
+
 ## GPT-4 Conversation
 
 Our conversation with GPT-4, which served as the foundation for this whitepaper, can be found at the following URL:
